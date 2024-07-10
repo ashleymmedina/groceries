@@ -12,6 +12,7 @@
     border-radius: 10px;
     text-align: center;
     padding: 15px;
+    padding-top: 20px;
 }
 
 #flex2 div{
@@ -20,4 +21,6 @@
     background-color: tan;
     border-radius: 10px;
     padding: 25px;
+    border: 40px;
+    border-color: rgb(5, 79, 5);
 }
