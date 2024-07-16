@@ -13,6 +13,8 @@
     text-align: center;
     padding: 15px;
     padding-top: 20px;
+
+    transition: width 2s
 }
 
 #flex2 div{
@@ -24,3 +26,32 @@
     border: 40px;
     border-color: rgb(5, 79, 5);
 }
+
+/* p{
+    border-color: gray;
+    margin: 10px;
+    background-color: wheat;
+    transition: width 3s
+} */
+
+p:hover{
+    background-color: white;
+    border-radius: 7px;
+    width: 200px;
+    align-content: center;
+}
+    /* animation-name: colorswitch;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+
+
+/* @keyframes colorswitch {
+    from {background-color: pink;}
+    to {background-color: green;}
+}    */
+
+@keyframes multiplecolors {
+
+}
+
+
